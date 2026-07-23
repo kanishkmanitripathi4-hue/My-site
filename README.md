@@ -102,7 +102,7 @@ footer{
 
 <header>
     <h1>India Post Financial Services</h1>
-    <p>Trusted by Millions of Indians for Safe Savings and Investments</p>
+    <p>Trusted by Millions of Indians for Safe Savings and Investments.</p>
 </header>
 
 <section>
